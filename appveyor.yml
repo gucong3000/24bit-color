@@ -1,0 +1,3 @@
+test_script:
+  - sh ./24-bit-color.sh
+build: off

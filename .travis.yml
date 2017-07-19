@@ -1,0 +1,3 @@
+sudo: false
+script:
+  - chmod +x ./24-bit-color.sh && ./24-bit-color.sh

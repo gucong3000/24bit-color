@@ -1,0 +1,7 @@
+version: 2
+jobs:
+  build:
+    steps:
+      - run:
+          name: test
+          command: chmod +x ./24-bit-color.sh && ./24-bit-color.sh
